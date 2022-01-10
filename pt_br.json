@@ -1,0 +1,8 @@
+{
+	"item.sculk_worm.sensor_helmet": "Coroa Sculk",
+	"item.sculk_worm.sculk_mucus": "Muco Sculk",
+	"item.sculk_worm.spawn_sculk_worm_entity": "Desovar Verme Sculk",
+	"block.sculk_worm.sculk_slime": "Sculk Slime",
+	"entity.sculk_worm.sculk_worm_entity": "Verme Sculk",
+	"entity.sculk_worm.sculk_segment_entity": "Corpo de verme Sculk"
+}
